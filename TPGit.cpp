@@ -20,7 +20,9 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout << "GIT TP" << endl;
+    cout << "///////////////" << endl;
+    cout << "----GIT TP----" << endl;
+    cout << "///////////////" << endl;
     return 0;
 }
 
